@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Jiaojiao Guan - Homepage
 
 ## 🌱About Me
-简要自我介绍。
+Hi all, I am Jiaojiao Guan. 
 
 ## News
 - 2024.07: XX论文被XX会议接收。
