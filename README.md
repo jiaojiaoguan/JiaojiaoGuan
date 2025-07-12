@@ -41,8 +41,8 @@ Hi all, I am Jiaojiao Guan.
 - XX课程助教, XX年春季
 
 ## Professional Service
-- AAAI 程序委员会成员
-- TMI 审稿人
+- xxx 程序委员会成员
+- xxx 审稿人
 
 ## Contact
 - Email: your@email.com
